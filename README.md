@@ -1,1 +1,3 @@
 # leetcode
+
+First initial try.
